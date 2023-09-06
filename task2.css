@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Black Ops One", cursive;
+  text-align: center;
+  background: linear-gradient(to right, #BFBFBC, #4AD0FF,#1CDA19);
+  letter-spacing: 1rem;
+  font-size: 40px;
+  margin: 10px;
+}
+h1 {
+  color: white;
+  text-shadow: 4px 4px rgb(0, 0, 0);
+}
+h6{
+  font-size: 25px;
+  letter-spacing: 0.4rem;
+  margin: 50px;
+  color: rgb(227, 161, 161);
+  /* text-shadow: 4px 2px gray; */
+}
+span {
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(255, 0, 0);
+  /* text-shadow: 1px 1px rgb(0, 0, 0); */
+}
